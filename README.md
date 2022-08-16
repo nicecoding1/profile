@@ -45,5 +45,4 @@
 - 인스타그램: https://www.instagram.com/jaesang1017
 - 페이스북: https://www.facebook.com/jaesang.jo.96
 - 엑스퍼트: https://m.expert.naver.com/expert/profile/home?storeId=100001757
-- 트위터: https://twitter.com/jjskorea
 - 깃허브: https://github.com/nicecoding1
